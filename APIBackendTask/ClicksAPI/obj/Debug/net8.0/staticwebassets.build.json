@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "u/V3BP79dgGp4bPJm+4YWmTGuwM4bJ7hMSFvUMwUH5k=",
+  "Source": "ClicksAPI",
+  "BasePath": "_content/ClicksAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
